@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Uncategorized &#8211; Automobile Blog</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://agentunicorn.github.io/wordpress-demo</link>
+	<description>Find your dream car here</description>
+	<lastBuildDate>Mon, 13 Sep 2021 00:59:45 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Test backup 123 alo alo</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/test-backup-123-alo-alo/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/test-backup-123-alo-alo/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Mon, 13 Sep 2021 00:59:45 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=79</guid>
+
+					<description><![CDATA[]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/test-backup-123-alo-alo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
