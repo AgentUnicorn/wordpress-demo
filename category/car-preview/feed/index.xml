@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/car-preview/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description>Find your dream car here</description>
-	<lastBuildDate>Wed, 01 Sep 2021 01:42:21 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Sep 2021 10:37:15 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,7 +31,7 @@
 		<category><![CDATA[preview]]></category>
 		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=48</guid>
 
-					<description><![CDATA[In the words of Samuel L. Jackon in Jurassic Park: Hold onto your butts! For two reasons: this 1995 McLaren F1 Road Car set a record price at the auction, and despite its age, it’s still very fast! Record Breaker The 1995 McLaren F1 road car, pictured in the gallery above, set a record auction price of $20.465 [&#8230;]]]></description>
+					<description><![CDATA[In the words of Samuel L. Jackon in&#160;Jurassic Park: Hold onto your butts! For two reasons: this 1995 McLaren F1 Road Car set a record price at the auction, and despite its age, it’s still very fast! Record Breaker The 1995 McLaren F1 road car, pictured in the gallery above, set a record auction price of $20.465&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Meet The 1995 McLaren F1 Road Car That Set an Incredible Record Auction Price</span></a>]]></description>
 		
 					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

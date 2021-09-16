@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Car New &#8211; Automobile Blog</title>
+	<atom:link href="http://localhost/myproject/wordpress/category/car-new/feed/" rel="self" type="application/rss+xml" />
+	<link>https://agentunicorn.github.io/wordpress-demo</link>
+	<description>Find your dream car here</description>
+	<lastBuildDate>Thu, 16 Sep 2021 10:44:38 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
+	<item>
+		<title>Ford Rolls Out New Mustang Ice White Appearance Package For 2022</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Thu, 16 Sep 2021 10:44:36 +0000</pubDate>
+				<category><![CDATA[Car New]]></category>
+		<category><![CDATA[car]]></category>
+		<category><![CDATA[new]]></category>
+		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=354</guid>
+
+					<description><![CDATA[Ford is going all ’90s lately. They recently unveiled the Splash Package for the Ranger, a throwback to the era of compact discs and Super Nintendos. And now, it’s all about the Fox Body Mustang! Ford is introducing the Mustang Ice White Edition Appearance Package for both the Mustang coupe and Mach-E. This marks the first time&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Ford Rolls Out New Mustang Ice White Appearance Package For 2022</span></a>]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
