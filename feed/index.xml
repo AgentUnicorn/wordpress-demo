@@ -5,13 +5,16 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Automobile Blog</title>
+	<title>Automobile blog</title>
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
-	<description>Find your dream car here</description>
+	<description></description>
 	<lastBuildDate>Thu, 16 Sep 2021 10:44:38 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -19,6 +22,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
+
+<image>
+	<url>https://agentunicorn.github.io/wordpress-demo/wp-content/uploads/2021/09/logo.png</url>
+	<title>Automobile blog</title>
+	<link>https://agentunicorn.github.io/wordpress-demo</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Ford Rolls Out New Mustang Ice White Appearance Package For 2022</title>
 		<link>https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/</link>
@@ -31,7 +42,7 @@
 		<category><![CDATA[new]]></category>
 		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=354</guid>
 
-					<description><![CDATA[Ford is going all ’90s lately. They recently unveiled the Splash Package for the Ranger, a throwback to the era of compact discs and Super Nintendos. And now, it’s all about the Fox Body Mustang! Ford is introducing the Mustang Ice White Edition Appearance Package for both the Mustang coupe and Mach-E. This marks the first time&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Ford Rolls Out New Mustang Ice White Appearance Package For 2022</span></a>]]></description>
+					<description><![CDATA[Ford is going all ’90s lately. They recently unveiled the Splash Package for the Ranger, a throwback to the era of compact discs and Super Nintendos. And now, it’s all about the Fox Body Mustang! Ford is introducing the Mustang Ice White Edition Appearance Package for both the Mustang coupe and Mach-E. This marks the first time [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
@@ -50,7 +61,7 @@
 		<category><![CDATA[preview]]></category>
 		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=48</guid>
 
-					<description><![CDATA[In the words of Samuel L. Jackon in&#160;Jurassic Park: Hold onto your butts! For two reasons: this 1995 McLaren F1 Road Car set a record price at the auction, and despite its age, it’s still very fast! Record Breaker The 1995 McLaren F1 road car, pictured in the gallery above, set a record auction price of $20.465&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Meet The 1995 McLaren F1 Road Car That Set an Incredible Record Auction Price</span></a>]]></description>
+					<description><![CDATA[In the words of Samuel L. Jackon in&#160;Jurassic Park: Hold onto your butts! For two reasons: this 1995 McLaren F1 Road Car set a record price at the auction, and despite its age, it’s still very fast! Record Breaker The 1995 McLaren F1 road car, pictured in the gallery above, set a record auction price of $20.465 [&#8230;]]]></description>
 		
 					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>

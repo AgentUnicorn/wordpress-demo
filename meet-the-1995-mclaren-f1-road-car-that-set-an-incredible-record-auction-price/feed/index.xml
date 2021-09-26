@@ -4,13 +4,16 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
 	>
 <channel>
 	<title>
 	Comments on: Meet The 1995 McLaren F1 Road Car That Set an Incredible Record Auction Price	</title>
 	<atom:link href="http://localhost/myproject/wordpress/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/</link>
-	<description>Find your dream car here</description>
+	<description></description>
 	<lastBuildDate>Thu, 16 Sep 2021 10:37:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
