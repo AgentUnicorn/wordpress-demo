@@ -14,11 +14,53 @@
 	<atom:link href="http://localhost/myproject/wordpress/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 15:51:34 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 09:45:50 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-</channel>
+	<item>
+		<title>
+		Comment on Lamborghini Aventador LP 780-4 Ultimae: The Ultimate Sendoff For The Great V12 Aventador? by nguyenphuongbinh		</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/lamborghini-aventador-lp-780-4-ultimae-the-ultimate-sendoff-for-the-great-v12-aventador/#comment-16</link>
+
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 09:45:50 +0000</pubDate>
+		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=13#comment-16</guid>
+
+					<description><![CDATA[Uy tin luôn]]></description>
+			<content:encoded><![CDATA[<p>Uy tin luôn</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Meet The 1995 McLaren F1 Road Car That Set an Incredible Record Auction Price by nguyenphuongbinh		</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/#comment-15</link>
+
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 09:45:31 +0000</pubDate>
+		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=48#comment-15</guid>
+
+					<description><![CDATA[Xe đẹp quá]]></description>
+			<content:encoded><![CDATA[<p>Xe đẹp quá</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		Comment on Ford Rolls Out New Mustang Ice White Appearance Package For 2022 by nguyenphuongbinh		</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/#comment-14</link>
+
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 09:45:07 +0000</pubDate>
+		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=354#comment-14</guid>
+
+					<description><![CDATA[Xịn xịn]]></description>
+			<content:encoded><![CDATA[<p>Xịn xịn</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>

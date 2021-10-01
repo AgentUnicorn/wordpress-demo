@@ -14,11 +14,25 @@
 	<atom:link href="http://localhost/myproject/wordpress/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/</link>
 	<description></description>
-	<lastBuildDate>Thu, 16 Sep 2021 10:37:15 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 09:45:31 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.8.1</generator>
-</channel>
+	<item>
+		<title>
+		By: nguyenphuongbinh		</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/meet-the-1995-mclaren-f1-road-car-that-set-an-incredible-record-auction-price/#comment-15</link>
+
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Fri, 01 Oct 2021 09:45:31 +0000</pubDate>
+		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=48#comment-15</guid>
+
+					<description><![CDATA[Xe đẹp quá]]></description>
+			<content:encoded><![CDATA[<p>Xe đẹp quá</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
 </rss>
