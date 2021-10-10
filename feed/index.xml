@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Thu, 16 Sep 2021 10:44:38 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 09 Oct 2021 18:12:04 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,6 +31,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>McLaren Senna 2020</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/mclaren-senna-2020/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/mclaren-senna-2020/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Sat, 09 Oct 2021 17:39:45 +0000</pubDate>
+				<category><![CDATA[Car Preview]]></category>
+		<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?p=508</guid>
+
+					<description><![CDATA[Sơ lược về McLaren Senna 2020 Các kỹ sư của McLaren tuyên bố rằng Senna là chiếc xe phản ứng nhanh và trực tiếp nhất mà họ từng chế tạo, và nó được chế tạo đặc biệt để thiết lập các tiêu chuẩn mới trên đường đua. Được đặt theo tên tay đua Công thức [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/mclaren-senna-2020/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Ford Rolls Out New Mustang Ice White Appearance Package For 2022</title>
 		<link>https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/</link>
 					<comments>https://agentunicorn.github.io/wordpress-demo/ford-rolls-out-new-mustang-ice-white-appearance-package-for-2022/#comments</comments>
