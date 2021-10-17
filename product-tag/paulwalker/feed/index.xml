@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/paulwalker/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 30 Sep 2021 14:33:33 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>PaulWalker</title>
-		<link></link>
+		<title>Combo Paul Walker</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/combo-paul-walker/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/combo-paul-walker/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Thu, 30 Sep 2021 14:33:33 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=489</guid>
 
-					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Combo Paul Walker 9,000,000,000&#160;&#8363; &#8211; 15,000,000,000&#160;&#8363; View products]]></description>
+					<description><![CDATA[]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/combo-paul-walker/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

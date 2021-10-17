@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/subaru/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 09:34:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Subaru</title>
-		<link></link>
+		<title>Subaru BRZ</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/subaru-brz/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/subaru-brz/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 15:05:52 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=444</guid>
 
-					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Subaru BRZ 800,000,000&#160;&#8363; Select options]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : &#8211; 4 Engine Code : &#8211; Fuel type : Petrol Fuel System : Direct Injection. Engine Alignment : Longitudinal Engine Position : Front Engine size &#8211; Displacement &#8211; Engine capacity : 1998 cm3 or 121.9 cu-in Bore x Stroke : 86.0 x 86.0 mm 3.39 x 3.39 inches&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/subaru-brz/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Subaru BRZ</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/subaru-brz/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

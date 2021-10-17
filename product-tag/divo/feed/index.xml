@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/divo/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 09:34:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Divo</title>
-		<link></link>
+		<title>Bugatti Divo</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/bugatti-divo/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/bugatti-divo/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 14:31:55 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=430</guid>
 
-					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Bugatti Divo Sale! 20,000,000,000&#160;&#8363; 18,000,000,000&#160;&#8363; Select options]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : W 16 Engine Code : Bugatti Fuel type : Petrol Fuel System : Multipoint Indirect Injection Lubrication : See oil information  Coolant : See Coolant information  Engine Alignment : Longitudinal Engine Position : Rear Engine size &#8211; Displacement &#8211; Engine capacity : 7993 cm3 or 487.8 cu-in Number&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/bugatti-divo/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Bugatti Divo</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/bugatti-divo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

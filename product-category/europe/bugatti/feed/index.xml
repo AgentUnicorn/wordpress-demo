@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/europe/bugatti/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 11 Oct 2021 00:29:44 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,50 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Bugatti</title>
-		<link></link>
+		<title>Bugatti Divo</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/bugatti-divo/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/bugatti-divo/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 14:31:55 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=430</guid>
 
-					<description><![CDATA[Showing all 3 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Bugatti Chiron Super Sport Sale! 15,000,000,000&#160;&#8363; 13,500,000,000&#160;&#8363; Add to cart Bugatti Divo Sale! 20,000,000,000&#160;&#8363; 18,000,000,000&#160;&#8363; Select options Bugatti EB Veyron 16.4 Sale! 12,000,000,000&#160;&#8363; 11,000,000,000&#160;&#8363; Add to cart]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : W 16 Engine Code : Bugatti Fuel type : Petrol Fuel System : Multipoint Indirect Injection Lubrication : See oil information  Coolant : See Coolant information  Engine Alignment : Longitudinal Engine Position : Rear Engine size &#8211; Displacement &#8211; Engine capacity : 7993 cm3 or 487.8 cu-in Number&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/bugatti-divo/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Bugatti Divo</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/bugatti-divo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bugatti Chiron</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/bugatti-chiron-super-sport/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/bugatti-chiron-super-sport/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:29:59 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=429</guid>
+
+					<description><![CDATA[Engine type &#8211; Number of cylinders : W 16 Engine Code : &#8211; Fuel type : Petrol Fuel System : Direct Injection. Lubrication : See oil information  Coolant : &#8211;  Engine Alignment : Longitudinal Engine Position : Mid-engine Engine size &#8211; Displacement &#8211; Engine capacity : 7993 cm3 or 487.8 cu-in Bore x Stroke :&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/bugatti-chiron-super-sport/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Bugatti Chiron</span></a>]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/bugatti-chiron-super-sport/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bugatti EB Veyron</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/bugatti-eb-veyron-16-4/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/bugatti-eb-veyron-16-4/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:27:08 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=428</guid>
+
+					<description><![CDATA[Engine type &#8211; Number of cylinders : W 16 Engine Code : &#8211; Fuel type : Petrol Fuel System : Direct Fuel Injection Engine Position : Mid-engine Engine size &#8211; Displacement &#8211; Engine capacity : 7993 cm3 or 487.8 cu-in Bore x Stroke : 86.0 x 86.0 mm 3.39 x 3.39 inches Number of valves&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/bugatti-eb-veyron-16-4/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Bugatti EB Veyron</span></a>]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/bugatti-eb-veyron-16-4/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/chevrolet/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Oct 2021 14:53:43 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Chevrolet</title>
-		<link></link>
+		<title>Chevrolet Corvette C7</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/chevrolet-corvette-c7-stingray-convertible/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/chevrolet-corvette-c7-stingray-convertible/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 14:52:43 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=438</guid>
 
-					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Chevrolet Corvette C7 Stingray Convertible 14,000,000,000&#160;&#8363; Select options]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : V 8 Engine Code : &#8211; Fuel type : Petrol Fuel System : Direct Injection Engine Alignment : Longitudinal Engine Position : Front Engine size &#8211; Displacement &#8211; Engine capacity : 6162 cm3 or 376 cu-in Bore x Stroke : 103.2 x 92.0 mm 4.06 x 3.62 inches&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/chevrolet-corvette-c7-stingray-convertible/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Chevrolet Corvette C7</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/chevrolet-corvette-c7-stingray-convertible/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

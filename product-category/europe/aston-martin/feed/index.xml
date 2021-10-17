@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/europe/aston-martin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Sep 2021 15:48:35 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Aston Martin</title>
-		<link></link>
+		<title>Aston Martin One 77 V12</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/aston-martin-one-77-v12/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/aston-martin-one-77-v12/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 15:03:04 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=443</guid>
 
-					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Aston Martin One 77 V12 12,000,000,000&#160;&#8363; Add to cart]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : V 12 Engine Code : AM21 Fuel type : Petrol Fuel System : EFI Lubrication : Dry sump Coolant : Water Engine Alignment : Longitudinal Engine size &#8211; Displacement &#8211; Engine capacity : 7312 cm3 or 446.2 cu-in Bore x Stroke : 94.00 x 87.80 mm 3.7 x&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/aston-martin-one-77-v12/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Aston Martin One 77 V12</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/aston-martin-one-77-v12/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

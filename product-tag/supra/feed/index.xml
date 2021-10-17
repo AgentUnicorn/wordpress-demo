@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/supra/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 09:34:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,34 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Supra</title>
-		<link></link>
+		<title>Toyota Supra MKV 2019</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/toyota-supra-mkv-2019/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/toyota-supra-mkv-2019/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 14:24:46 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=427</guid>
 
-					<description><![CDATA[Showing all 2 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Toyota Supra MKIV Turbo 9,000,000,000&#160;&#8363; Select options Toyota Supra MKV 2019 12,000,000,000&#160;&#8363; Add to cart]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : Inline 6 Engine Code : &#8211; Fuel type : Petrol Fuel System : Direct Injection Engine Alignment : Longitudinal Engine Position : Front Engine size &#8211; Displacement &#8211; Engine capacity : 2998 cm3 or 182.9 cu-in Bore x Stroke : 82.0 x 94.6 mm 3.23 x 3.7 inches&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/toyota-supra-mkv-2019/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Toyota Supra MKV 2019</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/toyota-supra-mkv-2019/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Toyota Supra MKIV Turbo</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/toyota-supra-mkiv-turbo/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/toyota-supra-mkiv-turbo/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:22:49 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=426</guid>
+
+					<description><![CDATA[Engine type &#8211; Number of cylinders : Inline 6 Engine Code : 2JZ-GTE Fuel type : Petrol Fuel System : MPI &#8211; Toyota TCCS Engine Alignment : Longitudinal Engine size &#8211; Displacement &#8211; Engine capacity : 2997 cm3 or 182.9 cu-in Bore x Stroke : 86.0 x 86.0 mm 3.39 x 3.39 inches Number of&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/toyota-supra-mkiv-turbo/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Toyota Supra MKIV Turbo</span></a>]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/toyota-supra-mkiv-turbo/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

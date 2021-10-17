@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/europe/audi/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Oct 2021 14:39:54 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,34 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Audi</title>
-		<link></link>
+		<title>Audi TT</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/audi-tt-8s-2019-coupe-tts-quattro-competition/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/audi-tt-8s-2019-coupe-tts-quattro-competition/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 15:00:48 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=442</guid>
 
-					<description><![CDATA[Showing all 2 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Audi R8 Coupe 2019 5.2 FSI Performance quattro 3,000,000,000&#160;&#8363; Add to cart Audi TT (8S 2019) Coupe TTS quattro Competition 700,000,000&#160;&#8363; Add to cart]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : Inline 4 Engine Code : &#8211; Fuel type : Petrol Fuel System : Direct Injection Engine Alignment : Transverse Engine Position : Front Engine size &#8211; Displacement &#8211; Engine capacity : 1984 cm3 or 121.1 cu-in Bore x Stroke : 82.5 x 92.8 mm 3.23 x 3.62 inches&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/audi-tt-8s-2019-coupe-tts-quattro-competition/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Audi TT</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/audi-tt-8s-2019-coupe-tts-quattro-competition/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Audi R8 Coupe 2019</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/audi-r8-coupe-2019-5-2-fsi-performance-quattro/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/audi-r8-coupe-2019-5-2-fsi-performance-quattro/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:59:24 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=441</guid>
+
+					<description><![CDATA[Engine type &#8211; Number of cylinders : V 10 Engine Code : &#8211; Fuel type : Petrol Fuel System : Direct Injection Engine Alignment : Longitudinal Engine Position : Mid-engine Engine size &#8211; Displacement &#8211; Engine capacity : 5204 cm3 or 317.6 cu-in Bore x Stroke : 84.5 x 92.8 mm 3.31 x 3.62 inches&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/audi-r8-coupe-2019-5-2-fsi-performance-quattro/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Audi R8 Coupe 2019</span></a>]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/audi-r8-coupe-2019-5-2-fsi-performance-quattro/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

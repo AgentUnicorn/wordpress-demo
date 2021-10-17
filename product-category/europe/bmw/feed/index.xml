@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/europe/bmw/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Oct 2021 14:48:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>BMW</title>
-		<link></link>
+		<title>BMW G29 Z4</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/bmw-g29-z4-roadster-sdrive30i/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/bmw-g29-z4-roadster-sdrive30i/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 14:57:02 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=440</guid>
 
-					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low BMW G29 Z4 Roadster sDrive30i 2,000,000,000&#160;&#8363; Select options]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : Inline 4 Engine Code : B48B20 Fuel type : Petrol Fuel System : Direct Injection Engine Alignment : Longitudinal Engine Position : Front Engine size &#8211; Displacement &#8211; Engine capacity : 1998 cm3 or 121.9 cu-in Bore x Stroke : 82.0 x 94.6 mm 3.23 x 3.7 inches&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/bmw-g29-z4-roadster-sdrive30i/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">BMW G29 Z4</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/bmw-g29-z4-roadster-sdrive30i/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

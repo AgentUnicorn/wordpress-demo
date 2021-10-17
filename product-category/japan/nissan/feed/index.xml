@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-category/japan/nissan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 01 Oct 2021 09:34:13 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,34 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Nissan</title>
-		<link></link>
+		<title>Nissan Skyline R-33 GTR</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/nissan-skyline-r-33-gtr/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/nissan-skyline-r-33-gtr/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 14:19:09 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=425</guid>
 
-					<description><![CDATA[Showing all 2 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Nissan Skyline R-33 GTR 13,000,000,000&#160;&#8363; Select options Nissan Skyline R-34 GTR 15,000,000,000&#160;&#8363; Add to cart]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : Inline 6 Engine Code : RB26DETT Fuel type : Petrol Fuel System : EFi Lubrication : Wet sump Coolant : Water Engine Alignment : Longitudinal Engine size &#8211; Displacement &#8211; Engine capacity : 2568 cm3 or 156.7 cu-in Bore x Stroke : 86.00 x 73.3 mm 3.39 x&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/nissan-skyline-r-33-gtr/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Nissan Skyline R-33 GTR</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/nissan-skyline-r-33-gtr/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Nissan Skyline R-34 GTR</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/nissan-skyline-r-34-gtr/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/nissan-skyline-r-34-gtr/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:03:06 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=423</guid>
+
+					<description><![CDATA[abcxyz]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/nissan-skyline-r-34-gtr/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/nsx/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Oct 2021 13:47:28 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,18 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>NSX</title>
-		<link></link>
+		<title>Honda NSX</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/honda-nsx-r-1995/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/honda-nsx-r-1995/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 14:42:51 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=433</guid>
 
-					<description><![CDATA[Showing the single result Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Honda NSX -R 1995 2,000,000,000&#160;&#8363; Add to cart]]></description>
+					<description><![CDATA[Engine type &#8211; Number of cylinders : V 6 Engine Code : &#8211; Fuel type : Petrol Fuel System : Honda PGM-Fi Coolant : Water Engine Alignment : Transverse Engine size &#8211; Displacement &#8211; Engine capacity : 2977 cm3 or 181.7 cu-in Bore x Stroke : 90.00 x 78.00 mm 3.54 x 3.07 inches Number&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/honda-nsx-r-1995/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Honda NSX</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/honda-nsx-r-1995/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>

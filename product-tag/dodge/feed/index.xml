@@ -15,7 +15,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/product-tag/dodge/feed/" rel="self" type="application/rss+xml" />
 	<link>https://agentunicorn.github.io/wordpress-demo</link>
 	<description></description>
-	<lastBuildDate>Sun, 26 Sep 2021 13:42:24 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 10 Oct 2021 14:43:42 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -31,15 +31,34 @@
 	<height>32</height>
 </image> 
 	<item>
-		<title>Dodge</title>
-		<link></link>
+		<title>Dodge Charger</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/dodge-charger/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/dodge-charger/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
-		<pubDate>Sun, 26 Sep 2021 13:42:24 +0000</pubDate>
-				<guid isPermaLink="false"></guid>
+		<pubDate>Sun, 26 Sep 2021 14:37:14 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=432</guid>
 
-					<description><![CDATA[Showing all 2 results Default sorting Sort by popularity Sort by average rating Sort by latest Sort by price: low to high Sort by price: high to low Dodge Charger 900,000,000&#160;&#8363; Select options Dodge Viper II SRT-10 Roadster Read more]]></description>
+					<description><![CDATA[ngine type &#8211; Number of cylinders : V 6 Engine Code : &#8211; Fuel type : Petrol Fuel System : SMPFi Lubrication : Wet sump Coolant : Water Engine Alignment : Longitudinal Engine size &#8211; Displacement &#8211; Engine capacity : 3518 cm3 or 214.7 cu-in Bore x Stroke : 96.00 x 81.00 mm 3.78 x&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/dodge-charger/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Dodge Charger</span></a>]]></description>
 		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/dodge-charger/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Dodge Viper II</title>
+		<link>https://agentunicorn.github.io/wordpress-demo/product/dodge-viper-ii-srt-10-roadster/</link>
+					<comments>https://agentunicorn.github.io/wordpress-demo/product/dodge-viper-ii-srt-10-roadster/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenphuongbinh]]></dc:creator>
+		<pubDate>Sun, 26 Sep 2021 14:34:46 +0000</pubDate>
+				<guid isPermaLink="false">https://agentunicorn.github.io/wordpress-demo/?post_type=product&#038;p=431</guid>
+
+					<description><![CDATA[Engine type &#8211; Number of cylinders : V 10 Engine Code : &#8211; Fuel type : Petrol Fuel System : MPI Engine Alignment : Longitudinal Engine size &#8211; Displacement &#8211; Engine capacity : 8277 cm3 or 505.1 cu-in Bore x Stroke : 102.36 x 100.58 mm 4.02 x 3.94 inches Number of valves : 20&#8230;&#160;<a href="https://agentunicorn.github.io/wordpress-demo/product/dodge-viper-ii-srt-10-roadster/" class="" rel="bookmark">Read More &#187;<span class="screen-reader-text">Dodge Viper II</span></a>]]></description>
+		
+					<wfw:commentRss>https://agentunicorn.github.io/wordpress-demo/product/dodge-viper-ii-srt-10-roadster/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
